@@ -1,4 +1,4 @@
-Commenting out due to this part being a bonus, so no test is needed since it is optional.
+# Commenting out due to this part being a bonus, so no test is needed since it is optional.
 
 require_relative './spec_helper'
 
